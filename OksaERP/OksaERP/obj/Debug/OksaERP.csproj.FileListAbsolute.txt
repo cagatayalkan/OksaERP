@@ -1,1 +1,2 @@
 C:\Users\cagatay\Desktop\OksaERP\OksaERP\bin\Debug\OksaERP.exe.config
+C:\Users\cagatay\Documents\GitHub\OksaERP\OksaERP\OksaERP\bin\Debug\OksaERP.exe.config
